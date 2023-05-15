@@ -1,5 +1,5 @@
 # IS-CSE
-This code can be used to reproduce the results of our paper ***Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding***
+This code can be used to reproduce the results of our paper ***Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding***(Our [paper](https://arxiv.org/abs/2305.07424) has been accepted to AAAI2023.)
 
 ## Dependencies
 We run our code on NVIDIA A100 with CUDA version over 11.0.
